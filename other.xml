@@ -10,6 +10,7 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="$USER_HOME$/EditorAI/py3_dev_env/bin/python3" value="false" />
+        <entry key="$USER_HOME$/EditorAI/py3_env_ac/bin/python3" value="false" />
         <entry key="$USER_HOME$/EditorAI/stockwatcher/editorai_env/bin/python" value="false" />
         <entry key="$USER_HOME$/EditorAI/stockwatcher/py3_dev_env/bin/python" value="false" />
         <entry key="$USER_HOME$/EditorAI/stockwatcher/py3_editorai_env/bin/python" value="false" />
@@ -20,6 +21,7 @@
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/EditorAI/py3_dev_env/bin/python3" value="false" />
+        <entry key="$USER_HOME$/EditorAI/py3_env_ac/bin/python3" value="false" />
         <entry key="$USER_HOME$/EditorAI/stockwatcher/editorai_env/bin/python" value="false" />
         <entry key="$USER_HOME$/EditorAI/stockwatcher/py3_dev_env/bin/python" value="false" />
         <entry key="$USER_HOME$/EditorAI/stockwatcher/py3_editorai_env/bin/python" value="false" />
@@ -30,6 +32,7 @@
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="$USER_HOME$/EditorAI/py3_dev_env/bin/python3" value="false" />
+        <entry key="$USER_HOME$/EditorAI/py3_env_ac/bin/python3" value="false" />
         <entry key="$USER_HOME$/EditorAI/stockwatcher/editorai_env/bin/python" value="false" />
         <entry key="$USER_HOME$/EditorAI/stockwatcher/py3_dev_env/bin/python" value="false" />
         <entry key="$USER_HOME$/EditorAI/stockwatcher/py3_editorai_env/bin/python" value="false" />
