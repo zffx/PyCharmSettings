@@ -6,6 +6,7 @@
         <option value="$USER_HOME$/EditorAI/stockwatcher/editorai_env/bin/python" />
         <option value="$USER_HOME$/EditorAI/stockwatcher/py3_dev_env/bin/python" />
         <option value="$USER_HOME$/EditorAI/stockwatcher/py3_editorai_env/bin/python" />
+        <option value="$USER_HOME$/EditorAI/stockwatcher_env_py3/bin/python3" />
         <option value="/usr/bin/python" />
       </set>
     </option>

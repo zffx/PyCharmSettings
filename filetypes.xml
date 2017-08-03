@@ -8,7 +8,9 @@
       <mapping pattern="indexPortfolio" type="PLAIN_TEXT" />
       <mapping pattern="portfolio_image_test" type="PLAIN_TEXT" />
       <mapping pattern="inserted_features" type="PLAIN_TEXT" />
+      <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="npz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
