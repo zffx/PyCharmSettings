@@ -5,6 +5,7 @@
       <mapping pattern="concept_preference" type="PLAIN_TEXT" />
       <mapping pattern="portfolio_min_test" type="PLAIN_TEXT" />
       <mapping pattern="inserted_features_v3" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="industry_preference" type="PLAIN_TEXT" />
       <mapping pattern="indexPortfolio" type="PLAIN_TEXT" />
